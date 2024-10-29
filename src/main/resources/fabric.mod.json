@@ -12,7 +12,11 @@
   "icon": "assets/may-oh_putain_laureng/icon.png",
 
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "main": [
+      "io.github.earthkiii.mayohputainlaureng.mayOhPutainLaureng"
+    ]
+  },
 
 
   "depends": {
