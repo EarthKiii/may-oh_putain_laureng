@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "may-oh_putain_laureng",
+  "version": "${version}",
+
+  "name": "may-oh_putain_laureng",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/may-oh_putain_laureng/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
